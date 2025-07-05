@@ -4,22 +4,22 @@ import { ExternalLink, ArrowRight } from 'lucide-react';
 const Portfolio = () => {
   const projects = [
     {
-      title: 'Sweet Dreams Bakery',
-      category: 'Local Business',
-      image: 'https://images.pexels.com/photos/1028714/pexels-photo-1028714.jpeg?auto=compress&cs=tinysrgb&w=600',
-      description: 'Warm, inviting website for a local bakery with online ordering',
+      title: 'The Wokxstation',
+      category: 'HR & Remote Work',
+      image: 'https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=600',
+      description: 'Modern, responsive website built for a remote work training platform',
     },
     {
-      title: 'FitLife Coach',
-      category: 'Personal Trainer',
-      image: 'https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?auto=compress&cs=tinysrgb&w=600',
-      description: 'Modern fitness website with client testimonials and programs',
+      title: 'GAD Creative',
+      category: 'Presentation Design Studio',
+      image: 'https://images.pexels.com/photos/3184431/pexels-photo-3184431.jpeg?auto=compress&cs=tinysrgb&w=600',
+      description: 'A bold, minimalist portfolio website for a premium presentation design studio',
     },
     {
-      title: 'Prime Properties',
-      category: 'Real Estate',
+      title: 'Cyprus Luxe',
+      category: 'Real Estate Investment',
       image: 'https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=600',
-      description: 'Professional real estate site with property showcase',
+      description: 'A clean, conversion-optimized landing page built for an international real estate company',
     },
   ];
 
